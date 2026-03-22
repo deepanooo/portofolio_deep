@@ -6,7 +6,7 @@ import { Projects } from "@/sections/Projects";
 import { Experience } from "@/sections/Experience";
 import { Testimonials } from "@/sections/Testimonials";
 import { Contact } from "@/sections/Contact";
-import { InstagramSection } from "@/sections/InstagramSection";
+import { InstagramSection } from "@/sections/Instagramsection";
 import { Footer } from "./layout/Footer";
 import { Loader } from "@/components/Loader";
 import { CustomCursor } from "@/components/CustomCursor";
