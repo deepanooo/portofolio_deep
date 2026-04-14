@@ -13,7 +13,7 @@ const projects = [
     tags: ["Figma", "UI/UX"],
     role: "UI/UX Designer",
     description:
-      "Designing a social platform to help people connect and share meaningful moments.",
+      "DenganKita. is a simple event ticketing app to find, book, and manage event tickets easily.",
     link: "https://www.figma.com/design/EuF987yB2as3JAC2LnFHW7/DenganKita?node-id=998-647&t=3i6bMWQukEKjktkp-1",
   },
   {
@@ -23,8 +23,8 @@ const projects = [
     tags: ["Affinity", "Figma"],
     role: "Graphic Designer",
     description:
-      "Creating a strong visual identity to enhance brand recognition and trust.",
-    link: "https://your-link.com",
+      "This poster celebrates International Women’s Day on March 8th. It highlights the strength, courage, and diversity of women, using purple as a symbol of equality and dignity. The message encourages people to support women’s empowerment and gender equality.",
+    link: "https://docs.google.com/document/d/1dEDidxx43yuzYPyLay1f6ordGUC6q8dI1ScveGCT0ng/edit?usp=sharing",
   },
   {
     title: "Promo Video",
@@ -37,14 +37,14 @@ const projects = [
     link: "https://your-link.com",
   },
   {
-    title: "Poster Design",
+    title: "Gamber",
     category: "Art",
-    image: "/projects/project4.png",
+    image: "/projects/project4.jpg",
     tags: ["Photoshop"],
     role: "Visual Designer",
     description:
-      "Designing visually compelling posters that communicate messages effectively.",
-    link: "https://your-link.com",
+      "This image shows three comic-style characters: a confident female hero in the center, a strong serious man on the right, and a slouched figure on the left, highlighting contrast between weakness and strength.",
+    link: "https://docs.google.com/document/d/1dEDidxx43yuzYPyLay1f6ordGUC6q8dI1ScveGCT0ng/edit?usp=sharing",
   },
 ];
 
