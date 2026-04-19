@@ -34,6 +34,14 @@ const testimonials = [
     avatar:
       "1758190156265.jpeg",
   },
+  {
+    quote:
+      "Mantap",
+    author: "Muhammad Rifqi Alkhairi",
+    role: "Computer Engineering, Universitas Indonesia",
+    avatar:
+      "1756179855508.jpeg",
+  },
 ];
 
 export const Testimonials = () => {
@@ -124,16 +132,16 @@ bg-clip-text text-transparent">
 
               <div className="flex gap-2">
                 {testimonials.map((_, idx) => (
-                  <button
-                    key={idx}
-                    onClick={() => setActiveIdx(idx)}
-                    className={`w-2 h-2 rounded-full transition-all duration-300 ${
-                      idx === activeIdx
-                        ? "w-8 bg-primary"
-                        : "bg-muted-foreground/30 hover:bg-muted-foreground/50"
-                    }`}
-                  />
-                ))}
+  <button
+    key={idx}
+    onClick={() => setActiveIdx(idx)}
+    className={`w-2 h-2 rounded-full transition-all duration-300 ${
+      idx === activeIdx
+        ? "w-8 bg-primary"
+        : "bg-muted-foreground/30 hover:bg-muted-foreground/50"
+    }`}
+  />
+))}
               </div>
 
               <button
